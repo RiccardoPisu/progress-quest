@@ -2,7 +2,7 @@
 
 Progress-Quest ist eine plattformübergreifende Anwendung, die dein Verhalten am Computer verfolgt und dir Erfahrungspunkte für die Dinge gibt, die du tust. Das Ziel dieses Projekts ist es, mich zu motivieren, neue Dinge zu lernen und dafür in Form von Erfahrungspunkten und Level-Ups belohnt zu werden. Es handelt sich um eine Gamification des Lernens.
 
-Hauptsächlich möchte ich jedoch während der Projektentwicklung den Umgang mit einigen, in der professionellen Softwareentwicklung genutzten Technologien, üben.
+Hauptsächlich möchte ich jedoch während der Projektentwicklung den Umgang mit einigen, in der professionellen Softwareentwicklung genutzten, Technologien üben.
 
 ## Features
 
