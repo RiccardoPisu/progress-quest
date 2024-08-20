@@ -7,7 +7,7 @@ trigger:
 - main  # oder dein Branch-Name
 
 pool:
-  vmImage: 'ubuntu-latest'
+  name: 'Self-Hosted Agents'
 
 steps:
 - task: UseDotNet@2
