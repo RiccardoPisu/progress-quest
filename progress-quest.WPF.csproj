@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>progress_quest</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="progress-quest.API\" />
+    <Folder Include="progress-quest.Data\" />
+    <Folder Include="progress-quest.Tests\" />
+    <Folder Include="WPF\Models\" />
+    <Folder Include="WPF\Resources\" />
+    <Folder Include="WPF\Services\" />
+    <Folder Include="WPF\" />
+    <Folder Include="WPF\ViewModels\" />
+    <Folder Include="WPF\Views\" />
+  </ItemGroup>
+
+</Project>
