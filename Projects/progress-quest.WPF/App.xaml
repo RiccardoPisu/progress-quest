@@ -1,7 +1,7 @@
-﻿<Application x:Class="progress_quest.App"
+﻿<Application x:Class="progress_quest.WPF.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:progress_quest"
+             xmlns:local="clr-namespace:progress_quest.WPF"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

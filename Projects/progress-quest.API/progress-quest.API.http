@@ -1,0 +1,6 @@
+@progress_quest.API_HostAddress = http://localhost:5223
+
+GET {{progress_quest.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
