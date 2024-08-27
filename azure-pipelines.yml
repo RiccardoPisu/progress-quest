@@ -17,10 +17,10 @@ steps:
     installationPath: $(Agent.ToolsDirectory)/dotnet
 
 - script: |
-    dotnet restore
+    dotnet restore progress-quest.sln
     dotnet build --configuration Release
   displayName: 'Restore and Build'
 
 - script: |
-    dotnet test --configuration Release
+    dotnet test progress-quest.Tests --configuration Release
   displayName: 'Run Tests'
